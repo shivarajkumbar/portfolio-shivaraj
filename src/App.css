@@ -249,7 +249,7 @@ body, html {
 .social-icon {
   font-size: 2rem;
   color: #fff;
-  transition: 0.3s;
+  transition: 0.4s;
 }
 
 .social-icon:hover {
@@ -279,11 +279,11 @@ body, html {
 
 @media (max-width: 768px) {
   .section-title {
-    font-size: 2.5rem;
+    font-size: 2.4rem;
   }
 
   .skills-list span, .contact-container p {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
   }
 }
 
