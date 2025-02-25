@@ -17,7 +17,7 @@ const Contact = () => {
                 <label>Message</label>
                 <textarea placeholder="Enter your message" rows="5" required></textarea>
 
-                <button type="submit" color='black'>Send Message</button>
+                <button type="submit" color='black' >Send Message</button>
             </form>
             <footer className="contact-footer">
                 <a href="https://www.instagram.com/shivarajkumbar1?igsh=ZDkzeWUwaXp5cGtr" target="_blank" rel="noopener noreferrer" className="social-icon"><FaInstagram color='black' /></a>
